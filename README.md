@@ -2,7 +2,7 @@
 
 1. This code is for the paper: 
 
-   Siqi Zhang , Guojia Hou, Kunqian Li, Weidong Zhang,Huan Yang,Zhenkuan Pan , "Toward a blind quality assessment for underwater images", Signal Processing: Image Communication, 2025, 117370.
+   Siqi Zhang, Guojia Hou, Kunqian Li, Weidong Zhang, Huan Yang, Zhenkuan Pan, "Toward a blind quality assessment for underwater images", Signal Processing: Image Communication, 2025, 117370.
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
@@ -10,10 +10,10 @@
 
 3. Usage:
 
-   (1) please run retrain.m for retraining the Prediction Model on the new dataset.
+   (1) Please run retrain.m for retraining the Prediction Model on the new dataset.
 
 
-   (2) Please prediction_model.m for image quality prediction
+   (2) Please prediction_model.m for image quality prediction.
 
 
    For any questions, please contact hgjouc@126.com.
